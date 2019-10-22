@@ -16,5 +16,5 @@ void search(int a[MAX],int x)
 	Element not found
   
   ## Conclusion 
-  The linear search works for both sorted and unsorted array 
+  The linear search works for both sorted and unsorted array .
   
